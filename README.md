@@ -11,7 +11,7 @@
 - [TOKENOMICS.md](./TOKENOMICS.md) — التوكنوميكس الخاصة بالعملة  
 - [ROADMAP.md](./ROADMAP.md) — خارطة الطريق  
 - [CONTRIBUTING.md](./CONTRIBUTING.md) — كيفية المساهمة في المشروع  
-- [WHITEPAPER.md](./WHITEPAPER.md) — الورقة البيضاء (قيد الإنشاء)
+- [WHITEPAPER.md](./WHITEPAPER.md)  _الورقة البيضاء
 
 ---
 
