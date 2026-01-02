@@ -61,7 +61,9 @@ https://t.me/monycoin1
 
 **wep:**
 https://monycoin1.blogspot.com/
----
+
+**meta:**
+https://www.facebook.com/share/1ZUbCbssCU/
 
 © 2025 — MECO Project  
 Founder: Mohamed Saadeh
