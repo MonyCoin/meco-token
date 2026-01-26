@@ -26,7 +26,7 @@
 ### 🔗 تحميل التطبيق (Android APK)
 
 - **الإصدار الحالي:**  
-https://expo.dev/artifacts/eas/mD3jYneDXASKVbNumMiMW5.apk
+https://expo.dev/artifacts/eas/hfY19UF4pAmmBouz6C7x8X.apk
 
 ### 🔄 التحديثات
 - جميع التحديثات المستقبلية ستكون **من داخل التطبيق**
