@@ -25,8 +25,8 @@
 
 ### 🔗 تحميل التطبيق (Android APK)
 
-- **الإصدار الحالي:**  
-https://expo.dev/artifacts/eas/hfY19UF4pAmmBouz6C7x8X.apk
+- **الإصدار الحالي (Mainnet):**  
+https://expo.dev/artifacts/eas/oN3zsKRBv223JYq8MWxjUX.apk
 
 ### 🔄 التحديثات
 - جميع التحديثات المستقبلية ستكون **من داخل التطبيق**
@@ -49,10 +49,12 @@ https://expo.dev/artifacts/eas/hfY19UF4pAmmBouz6C7x8X.apk
 
 ## 💰 سعر البيع المسبق (Presale Rate)
 
-- **1 SOL = 250,000 MECO**
+- **1 SOL = 125,000 MECO**
 - السعر ثابت طوال فترة البيع
 - لا توجد مراحل سعرية
 - لا خصومات أو عروض خاصة
+
+> تم اعتماد هذا السعر لضمان عدالة التوزيع واستدامة المشروع على المدى المتوسط والطويل.
 
 ---
 
@@ -167,4 +169,4 @@ https://expo.dev/artifacts/eas/hfY19UF4pAmmBouz6C7x8X.apk
 
 © 2025 — MECO Token  
 A Project of **MonyCoin Digital Development Foundation**  
-Founder: Mohamed Saadeh
+Founder: **Mohamed Saadeh**
