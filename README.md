@@ -36,7 +36,6 @@
 - 💰 [MECO_Presale_Funds.md](./MECO_Presale_Funds.md) — إدارة أموال البيع المسبق  
 - ⚙️ [APP_FEES.md](./APP_FEES.md) — حوكمة رسوم التطبيق  
 - 🚀 [PRODUCT_LAUNCH_AND_OPERATIONS.md](./PRODUCT_LAUNCH_AND_OPERATIONS.md) — توثيق إطلاق المنتج التشغيلي وبداية التشغيل المالي الفعلي  
-- 🧭 [PROJECT_EVOLUTION.md](./PROJECT_EVOLUTION.md) — توثيق انتقال المشروع إلى منظومة مالية عاملة  
 - 🧪 [INNOVATION_SUPPORT.md](./INNOVATION_SUPPORT.md) — برنامج دعم الابتكار (غير مفعل حالياً)
 
 ---
