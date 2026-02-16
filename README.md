@@ -1,3 +1,4 @@
+
 # <img src="https://raw.githubusercontent.com/MonyCoin/meco_wallet/refs/heads/main/assets/logo.png" width="30" height="30" style="vertical-align: middle;"> MonyCoin (MECO)
 
 <div align="center">
@@ -58,18 +59,18 @@
 
 | الرمز | الملف | الوصف |
 |:-----:|:-----:|:------|
-| 📖 | [VISION.md](./VISION.md) | رؤية المشروع وأهدافه البعيدة |
-| 📊 | [TOKENOMICS.md](./TOKENOMICS.md) | التوكنوميكس وتوزيع العملة |
-| 🗺️ | [ROADMAP.md](./ROADMAP.md) | خارطة الطريق والمراحل الزمنية |
-| 🤝 | [CONTRIBUTING.md](./CONTRIBUTING.md) | آلية المساهمة والتطوير |
-| 🏦 | [WALLETS.md](./WALLETS.md) | المحافظ الرسمية المعتمدة |
-| 📄 | [WHITEPAPER.md](./WHITEPAPER.md) | الورقة البيضاء التقنية |
-| 📜 | [STATEMENT.md](./STATEMENT.md) | البيان الرسمي للمشروع |
-| 🏛️ | [PROJECT_CHARTER.md](./PROJECT_CHARTER.md) | الميثاق المؤسسي |
-| 💰 | [MECO_Presale_Funds.md](./MECO_Presale_Funds.md) | إدارة أموال البيع المسبق |
-| ⚙️ | [APP_FEES.md](./APP_FEES.md) | حوكمة رسوم التطبيق |
-| 🚀 | [PRODUCT_LAUNCH_AND_OPERATIONS.md](./PRODUCT_LAUNCH_AND_OPERATIONS.md) | توثيق إطلاق المنتج التشغيلي |
-| 🧪 | [INNOVATION_SUPPORT.md](./INNOVATION_SUPPORT.md) | برنامج دعم الابتكار (غير مفعل) |
+| 📖 | [VISION.md](https://github.com/MonyCoin/meco-token/blob/main/VISION.md) | رؤية المشروع وأهدافه البعيدة |
+| 📊 | [TOKENOMICS.md](https://github.com/MonyCoin/meco-token/blob/main/TOKENOMICS.md) | التوكنوميكس وتوزيع العملة |
+| 🗺️ | [ROADMAP.md](https://github.com/MonyCoin/meco-token/blob/main/ROADMAP.md) | خارطة الطريق والمراحل الزمنية |
+| 🤝 | [CONTRIBUTING.md](https://github.com/MonyCoin/meco-token/blob/main/CONTRIBUTING.md) | آلية المساهمة والتطوير |
+| 🏦 | [WALLETS.md](https://github.com/MonyCoin/meco-token/blob/main/WALLETS.md) | المحافظ الرسمية المعتمدة |
+| 📄 | [WHITEPAPER.md](https://github.com/MonyCoin/meco-token/blob/main/WHITEPAPER.md) | الورقة البيضاء التقنية |
+| 📜 | [STATEMENT.md](https://github.com/MonyCoin/meco-token/blob/main/STATEMENT.md) | البيان الرسمي للمشروع |
+| 🏛️ | [PROJECT_CHARTER.md](https://github.com/MonyCoin/meco-token/blob/main/PROJECT_CHARTER.md) | الميثاق المؤسسي |
+| 💰 | [MECO_Presale_Funds.md](https://github.com/MonyCoin/meco-token/blob/main/MECO_Presale_Funds.md) | إدارة أموال البيع المسبق |
+| ⚙️ | [APP_FEES.md](https://github.com/MonyCoin/meco-token/blob/main/APP_FEES.md) | حوكمة رسوم التطبيق |
+| 🚀 | [PRODUCT_LAUNCH_AND_OPERATIONS.md](https://github.com/MonyCoin/meco-token/blob/main/PRODUCT_LAUNCH_AND_OPERATIONS.md) | توثيق إطلاق المنتج التشغيلي |
+| 🧪 | [INNOVATION_SUPPORT.md](https://github.com/MonyCoin/meco-token/blob/main/INNOVATION_SUPPORT.md) | برنامج دعم الابتكار (غير مفعل) |
 
 ---
 
@@ -77,3 +78,22 @@
 
 - **Network:** `Solana` ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 - **Token Mint Address:**  
+`7hBNyFfwYTv65z3ZudMAyKBw3BLMKxyKXsr5xM51Za4i`
+
+---
+
+## 🧩 ملخص سريع
+
+- معاملات سريعة ومنخفضة الرسوم  
+- دعم المدفوعات الصغيرة (MicroPayments)  
+- تكامل مباشر مع **MECO Wallet**  
+- إرسال واستقبال الأصول الرقمية  
+- شفافية كاملة On-chain  
+- إمكانية التوسع وإضافة مميزات مستقبلية  
+- مشروع موثق بإطار مؤسسي  
+
+---
+
+© 2026 — MECO Token  
+A Project of **MonyCoin Digital Development Foundation**  
+Founder: **Mohamed Saadeh**
