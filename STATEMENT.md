@@ -1,4 +1,4 @@
-# MECO Project — Official Documentation Statement
+# MECO Token — Official Documentation Statement
 البيان التوثيقي الرسمي لمشروع MonyCoin (MECO)
 
 ---
@@ -17,12 +17,13 @@ https://solscan.io/token/7hBNyFfwYTv65z3ZudMAyKBw3BLMKxyKXsr5xM51Za4i
 ---
 
 ### 🌐 الموقع الرسمي للمشروع
-- **MECO Project (GitHub Pages):**  
-https://saadeh73.github.io/meco-project/  
+- **MECO Token (GitHub Pages):**  
+https://monycoin.github.io/meco-project/  
 
-- **MECO Wallet (صفحة المشروع):**  
-https://saadeh73.github.io/meco_wallet/  
-
+- **MECO Wallet (الكود المصدرى):**  
+https://monycoin.github.io/meco_wallet/  
+- **MECO Wallet app(شاشة تحميل التطبيق)**
+https://monycoin.github.io/meco_wallet-app/
 ---
 
 ### 🧠 المستودع البرمجي (GitHub)
