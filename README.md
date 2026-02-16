@@ -33,12 +33,11 @@
 
 ## 📱 مستودعات المشروع
 
-| المستودع | الرابط | الوصف |
-|:--------:|:------:|:------|
-| **📄 التوثيق الرئيسي** | [meco-token]
-(https://monycoin.github.io/meco-token) | هذا المستودع - يحتوي على الرؤية، التوكنوميكس، والوثائق المؤسسية |
-| **📲 الكود المصدري** | [meco_wallet](https://github.com/MonyCoin/meco_wallet) | كود تطبيق MECO Wallet (React Native / Expo) |
-| **⬇️ صفحة التحميل** | [meco_wallet-app](https://monycoin.github.io/meco_wallet-app/ | صفحة HTML لتنزيل التطبيق مباشرة |
+| المستودع | الرابط | الصفحة التعريفية |
+|:--------:|:------:|:----------------:|
+| **📄 التوثيق الرئيسي** | [meco-token](https://github.com/MonyCoin/meco-token) | [🔗 meco-token](https://monycoin.github.io/meco-token/) |
+| **📲 الكود المصدري** | [meco_wallet](https://github.com/MonyCoin/meco_wallet) | [🔗 meco_wallet](https://monycoin.github.io/meco_wallet/) |
+| **⬇️ صفحة التحميل** | [meco_wallet-app](https://github.com/MonyCoin/meco_wallet-app) | [🔗 meco_wallet-app](https://monycoin.github.io/meco_wallet-app/) |
 
 ### 🔗 روابط سريعة للمنصات:
 
