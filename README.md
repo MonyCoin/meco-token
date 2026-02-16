@@ -46,7 +46,7 @@
 | | |
 |:---:|:---:|
 | [![GitHub Pages](https://img.shields.io/badge/التوثيق%20الرسمي-181717?style=for-the-badge&logo=github&logoColor=white)](https://monycoin.github.io/meco-token/) | [![GitHub Pages](https://img.shields.io/badge/صفحة%20التنزيل-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://monycoin.github.io/meco_wallet-app/) |
-| [![Download APK](https://img.shields.io/badge/تنزيل%20المحفظة-10B981?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/artifacts/eas/7T4cyPjQTsGB6XPLM9ZHBr.apk) | [![GitHub](https://img.shields.io/badge/المستودع%20البرمجي-1A1A2E?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/MonyCoin/meco_wallet) |
+| [![Download APK](https://img.shields.io/badge/تنزيل%20المحفظة-10B981?style=for-the-badge&logo=android&logoColor=white)](https://monycoin.github.io/meco_wallet-app/) | [![GitHub](https://img.shields.io/badge/المستودع%20البرمجي-1A1A2E?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/MonyCoin/meco_wallet) |
   
 </div>
 
@@ -69,7 +69,6 @@
 | 💰 | [MECO_Presale_Funds.md](./MECO_Presale_Funds.md) | إدارة أموال البيع المسبق |
 | ⚙️ | [APP_FEES.md](./APP_FEES.md) | حوكمة رسوم التطبيق |
 | 🚀 | [PRODUCT_LAUNCH_AND_OPERATIONS.md](./PRODUCT_LAUNCH_AND_OPERATIONS.md) | توثيق إطلاق المنتج التشغيلي |
-| 📱 | [MECO_Wallet_Releases.md](./MECO_Wallet_Releases.md) | تنزيل التطبيق الرسمي وسجل الإصدارات |
 | 🧪 | [INNOVATION_SUPPORT.md](./INNOVATION_SUPPORT.md) | برنامج دعم الابتكار (غير مفعل) |
 
 ---
