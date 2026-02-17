@@ -18,7 +18,7 @@ https://solscan.io/token/7hBNyFfwYTv65z3ZudMAyKBw3BLMKxyKXsr5xM51Za4i
 
 ### 🌐 الموقع الرسمي للمشروع
 - **MECO Token (GitHub Pages):**  
-https://monycoin.github.io/meco-project/  
+https://monycoin.github.io/meco-token/  
 
 - **MECO Wallet (الكود المصدرى):**  
 https://monycoin.github.io/meco_wallet/  
