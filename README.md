@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MonyCoin/meco_wallet/refs/heads/main/assets/logo.png" width="30" height="30" style="vertical-align: middle;"> MonyCoin (MECO)
+# <img src="https://raw.githubusercontent.com/MonyCoin/meco-token/refs/heads/main/meco.logo.png" width="30" height="30" style="vertical-align: middle;"> MonyCoin (MECO)
 
 **MECO** هي عملة رقمية مبنية على شبكة **Solana** 🇪🇬، تهدف إلى توفير نظام مالي سريع، آمن، ومنخفض التكلفة، مع تركيز عملي على **المدفوعات الصغيرة (MicroPayments)** والتكامل المباشر مع التطبيقات.
 
