@@ -1,77 +1,63 @@
-# <img src="https://raw.githubusercontent.com/MonyCoin/meco-token/refs/heads/main/meco.logo.png" width="30" height="30" style="vertical-align: middle;"> MonyCoin (MECO)
+# <img src="https://raw.githubusercontent.com/MonyCoin/meco_wallet/refs/heads/main/assets/icon.png" width="30" height="30"> MECO (MonyCoin) — الشفافية الكاملة على شبكة Solana
 
-**MECO** هي عملة رقمية مبنية على شبكة **Solana** 🇪🇬، تهدف إلى توفير نظام مالي سريع، آمن، ومنخفض التكلفة، مع تركيز عملي على **المدفوعات الصغيرة (MicroPayments)** والتكامل المباشر مع التطبيقات.
+<div align="center">
 
-يُعد مشروع MECO أحد المشاريع الرسمية التابعة لـ  
-**MonyCoin Digital Development Foundation**.
+[![Network](https://img.shields.io/badge/Network-Solana-9945FF.svg)](https://solana.com)
+[![Token Standard](https://img.shields.io/badge/Standard-SPL-blue.svg)](https://spl.solana.com)
+[![License](https://img.shields.io/badge/License-0BSD-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Operational-success.svg)](https://monycoin.github.io/meco_wallet-app/)
 
----
+</div>
 
-## 🏛️ الإطار المؤسسي
+**مستودع `meco-token` هو المرجع الإداري المفتوح والرسمي لمشروع MonyCoin (MECO).**
+الغرض منه هو توفير شفافية مطلقة حول اقتصاد العملة (Tokenomics)، توزيع المحافظ، حوكمة الرسوم، ورؤية المشروع طويلة المدى.
 
-يتم تطوير وإدارة وتوثيق مشروع MECO ضمن إطار مؤسسي واضح من خلال:
-
-**MonyCoin Digital Development Foundation**  
-وهي مؤسسة رقمية مستقلة مسؤولة عن:
-
-- التخطيط الاستراتيجي طويل المدى  
-- التوثيق الرسمي والحوكمة  
-- الشفافية والمساءلة on-chain  
-- التطوير التقني والتشغيلي المستمر  
+> ⚠️ **هذا المستودع مخصص للتوثيق المؤسسي والشفافية. الكود المصدري لتطبيق MECO Wallet موجود في مستودع منفصل: [meco_wallet](https://github.com/MonyCoin/meco_wallet).**
 
 ---
 
-## 📱 مستودعات المشروع
+## 🔗 روابط سريعة إلى الوثائق الرسمية
 
-| المستودع | الرابط | الصفحة التعريفية |
-|:--------:|:------:|:----------------:|
-| **📄 التوثيق الرئيسي** | [meco-token](https://github.com/MonyCoin/meco-token) | [موقع التوثيق](https://monycoin.github.io/meco-token/) |
-| **📲 الكود المصدري** | [meco_wallet](https://github.com/MonyCoin/meco_wallet) | [صفحة MECO Wallet](https://monycoin.github.io/meco_wallet/) |
-| **⬇️ صفحة التحميل** | [meco_wallet-app](https://github.com/MonyCoin/meco_wallet-app) | [تحميل التطبيق](https://monycoin.github.io/meco_wallet-app/) |
-
----
-
-## 📌 الوثائق الرسمية للمشروع
-
-تمثل الملفات التالية **المراجع الرسمية والمعتمدة** لمشروع MECO:
-
-| الرمز | الملف | الوصف |
-|:-----:|:-----:|:------|
-| 📖 | [VISION.md](VISION.md) | رؤية المشروع وأهدافه البعيدة |
-| 📊 | [TOKENOMICS.md](TOKENOMICS.md) | التوكنوميكس وتوزيع العملة |
-| 🗺️ | [ROADMAP.md](ROADMAP.md) | خارطة الطريق والمراحل الزمنية |
-| 🤝 | [CONTRIBUTING.md](CONTRIBUTING.md) | آلية المساهمة والتطوير |
-| 🏦 | [WALLETS.md](WALLETS.md) | المحافظ الرسمية المعتمدة |
-| 📄 | [WHITEPAPER.md](WHITEPAPER.md) | الورقة البيضاء التقنية |
-| 📜 | [STATEMENT.md](STATEMENT.md) | البيان الرسمي للمشروع |
-| 🏛️ | [PROJECT_CHARTER.md](PROJECT_CHARTER.md) | الميثاق المؤسسي |
-| 💰 | [MECO_Presale_Funds.md](MECO_Presale_Funds.md) | إدارة أموال البيع المسبق |
-| ⚙️ | [APP_FEES.md](APP_FEES.md) | حوكمة رسوم التطبيق |
-| 🚀 | [PRODUCT_LAUNCH_AND_OPERATIONS.md](PRODUCT_LAUNCH_AND_OPERATIONS.md) | توثيق إطلاق المنتج التشغيلي |
-| 🧪 | [INNOVATION_SUPPORT.md](INNOVATION_SUPPORT.md) | برنامج دعم الابتكار (غير مفعل) |
+| الوثيقة | الوصف |
+| :--- | :--- |
+| 📄 **[الورقة البيضاء الشاملة (Whitepaper)](docs/WHITEPAPER.md)** | كل التفاصيل التقنية والاقتصادية: التوكنوميكس، الرؤية، خارطة الطريق، والحوكمة. |
+| 🏦 **[محافظ المشروع الرسمية](docs/WALLETS.md)** | العناوين العلنية لجميع محافظ الخزينة، التطوير، المجتمع، والسيولة. |
+| 💰 **[حوكمة الرسوم (APP_FEES.md)](docs/APP_FEES.md)** | تفاصيل رسوم الخدمة داخل تطبيق MECO Wallet وآلية توزيعها. |
+| 🤝 **[الميثاق المؤسسي](docs/PROJECT_CHARTER.md)** | التزاماتنا الأخلاقية والتشغيلية تجاه المجتمع. |
 
 ---
 
-## 📡 معلومات الشبكة
+## 🪙 معلومات أساسية عن العملة
 
-- **Network:** `Solana`  
-- **Token Mint Address:**  
-`7hBNyFfwYTv65z3ZudMAyKBw3BLMKxyKXsr5xM51Za4i`
-
----
-
-## 🧩 ملخص سريع
-
-- معاملات سريعة ومنخفضة الرسوم  
-- دعم المدفوعات الصغيرة (MicroPayments)  
-- تكامل مباشر مع **MECO Wallet**  
-- إرسال واستقبال الأصول الرقمية  
-- شفافية كاملة On-chain  
-- إمكانية التوسع وإضافة مميزات مستقبلية  
-- مشروع موثق بإطار مؤسسي  
+| العنصر | التفاصيل |
+| :--- | :--- |
+| **اسم العملة** | MonyCoin |
+| **الرمز** | MECO |
+| **الشبكة** | Solana |
+| **عنوان العقد (Mint)** | `7hBNyFfwYTv65z3ZudMAyKBw3BLMKxyKXsr5xM51Za4i` |
+| **إجمالي المعروض** | 1,000,000,000 MECO |
+| **الصلاحيات** | Mint Authority: ❌ مغلق / Freeze Authority: ❌ معطل |
+| **الحالة التشغيلية** | ✅ نشطة ومنتشرة |
 
 ---
 
-© 2026 — MECO Token  
-A Project of **MonyCoin Digital Development Foundation**  
-Founder: **Mohamed Saadeh**
+## 🏛️ الشفافية والحوكمة
+
+نحن نؤمن بأن الثقة تُبنى على الشفافية الكاملة. لذلك:
+
+- ✅ **جميع عناوين المحافظ الرسمية منشورة** في [`WALLETS.md`](docs/WALLETS.md) ويمكن تتبعها على Solscan.
+- ✅ **لا توجد صلاحيات سك (Mint) أو تجميد (Freeze)**، العقد غير قابل للتعديل.
+- ✅ **يتم توثيق أي تغيير في السياسة المالية** في هذا المستودع بشكل فوري.
+
+---
+
+## 📬 المجتمع والتواصل
+
+- **الموقع الإلكتروني (مدونة):** [MonyCoin Blog](https://monycoin1.blogspot.com/)
+- **تويتر (X):** [@MoniCoinMECO](https://x.com/MoniCoinMECO)
+- **تيليجرام:** [@monycoin1](https://t.me/monycoin1)
+
+---
+
+**© 2026 — MECO Project**
+An Initiative of **MonyCoin Digital Development Foundation** | Founder: **Mohamed Saadeh**
