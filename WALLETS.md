@@ -50,7 +50,7 @@
 - لا تُستخدم للبيع المسبق
 
 **العنوان:**
-`2UViGdV4eH7eQrnzF39VP7GtBTnWP3fMypFXFxmcySgc`
+`8U7vSihKgsRYrgKpQGaEKsbRFcnyZKC1m7YHkFcruSXE`
 
 ---
 
@@ -96,7 +96,7 @@
 - التوزيع المجتمعي
 - الحملات التعريفية
 - دعم المستخدمين الأوائل
-- تمويل محافظ التشغيل والبيع المسبق
+- تمويل محافظ التشغيل
 
 **سياسة الاستخدام:**
 - المصدر الوحيد لأي توزيع أو بيع مبكر
@@ -104,31 +104,23 @@
 - لا تتداخل مع محفظة التداول
 
 **العنوان:**
-`A4uab675i9RHKGeYWF3NoePDKy1BvspxhjkeKDrptfrJ`
+`BBi8qKq3kMqYys1sDMsMpdhLEheTcCnDDNjh9kKoQ1y8`
 
 ---
 
-## 6️⃣ MECO Presale Wallet
+## 6️⃣ Fee Collection Wallet
 
 **الغرض:**
-- تنفيذ البيع المسبق
-- توزيع التوكنات على المشاركين الأوائل
-
-**مصدر التمويل:**
-- يتم تمويلها حصريًا من Community Wallet
-- لا يتم تمويلها من Liquidity أو Development أو Treasury
+- تحصيل رسوم الخدمة من العمليات داخل تطبيق MECO Wallet
+- تمويل عمليات التطوير والصيانة المستمرة
 
 **سياسة الاستخدام:**
-- مخصصة للبيع المسبق فقط
-- لا تُستخدم للتداول
-- لا تُستخدم للسيولة
-- أي رصيد متبقٍ بعد انتهاء البيع يُعاد إلى Community Wallet
-
-**الاسم:**
-MECO PRESALE
+- تُستخدم فقط لتجميع رسوم المعاملات (Swap, Staking, إلخ)
+- لا تُستخدم للسيولة أو التوزيع المباشر
+- جميع التحركات قابلة للتتبع على السلسلة
 
 **العنوان:**
-`E9repjjKBq3RVLw1qckrG15gKth63fe98AHCSgXZzKvY`
+`FosXqkRpbRnvtn7D1995BYv4BFNgsTfXs8WXhVXCjQqZ`
 
 ---
 
