@@ -1,0 +1,31 @@
+MECO Wallet NOTICE
+============================
+
+Copyright 2026 MonyCoin Digital Development Foundation.
+
+This product includes software developed by the MonyCoin Digital Development Foundation
+and its contributors (https://github.com/MonyCoin).
+
+Trademarks
+----------
+"MECO", "MECO Wallet", and the MECO logo are trademarks of MonyCoin Digital Development Foundation.
+Use of these marks requires prior written permission from the Foundation, except as
+necessary to describe the origin of the software or for nominative fair use.
+
+Third-Party Notices
+-------------------
+This product depends on various open-source libraries and packages. Their respective
+licenses can be found in the source code repository or in the dependencies' own
+repositories.
+
+For the full list of dependencies and their licenses, please refer to the package.json
+file in the source code repository: https://github.com/MonyCoin/meco_wallet
+
+Contact
+-------
+MonyCoin Digital Development Foundation
+Founder: Mohamed Saadeh
+Project Website: https://monycoin.github.io/meco_web/
+GitHub: https://github.com/MonyCoin
+Telegram: https://t.me/monycoin1
+Twitter/X: https://x.com/MoniCoinMECO
