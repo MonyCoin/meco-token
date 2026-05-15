@@ -52,8 +52,7 @@
 ---
 
 ## 📬 المجتمع والتواصل
-
-- **الموقع الإلكتروني (مدونة):** [MonyCoin Blog](https://monycoin1.blogspot.com/)
+MonyCoin(https://monycoin.github.io/meco_web/)
 - **تويتر (X):** [@MoniCoinMECO](https://x.com/MoniCoinMECO)
 - **تيليجرام:** [@monycoin1](https://t.me/monycoin1)
 
