@@ -5,8 +5,8 @@
 ## 📍 عنوان محفظة تحصيل الرسوم (Fee Collector)
 
 تذهب **جميع** رسوم الخدمة المُحصّلة من التطبيق إلى العنوان التالي بشكل حصري:
-FosXqkRpbRnvtn7D1995BYv4BFNgsTfXs8WXhVXCjQqZ
-[عرض المحفظة على Solscan](https://solscan.io/account/FosXqkRpbRnvtn7D1995BYv4BFNgsTfXs8WXhVXCjQqZ)
+BkaJsFAJKPQZgreBFLrY2pPUi44fTJzXhmeBc8LeuF5W
+[عرض المحفظة على Solscan](https://solscan.io/account/BkaJsFAJKPQZgreBFLrY2pPUi44fTJzXhmeBc8LeuF5W)
 
 ## 💸 أنواع الرسوم الحالية
 
