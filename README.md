@@ -52,7 +52,8 @@
 ---
 
 ## 📬 المجتمع والتواصل
-MonyCoin(https://monycoin.github.io/meco_web/)
+
+- **الموقع الرسمي:** [MonyCoin](https://monycoin.github.io/meco_web/)
 - **تويتر (X):** [@MoniCoinMECO](https://x.com/MoniCoinMECO)
 - **تيليجرام:** [@monycoin1](https://t.me/monycoin1)
 
