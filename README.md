@@ -46,7 +46,7 @@
 | **اسم العملة** | MonyCoin |
 | **الرمز** | MECO |
 | **الشبكة** | Solana |
-| **عنوان العقد (Mint)** | `7hBNyFfwYTv65z3ZudMAyKBw3BLMKxyKXsr5xM51Za4i` |
+| **عنوان العقد (Mint)** | `A5Ln25cfww33kfUSzBb89bMha7j1PnFQTy7H3FsQHN7W` |
 | **إجمالي المعروض** | 1,000,000,000 MECO |
 | **الصلاحيات** | Mint Authority: ❌ مغلق / Freeze Authority: ❌ معطل |
 | **الحالة التشغيلية** | ✅ نشطة ومنتشرة |
