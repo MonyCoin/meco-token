@@ -12,7 +12,7 @@
 
 ### 🪙 بيانات الرمز على شبكة Solana
 - **Solscan (Token Explorer):**  
-https://solscan.io/token/7hBNyFfwYTv65z3ZudMAyKBw3BLMKxyKXsr5xM51Za4i  
+https://solscan.io/token/A5Ln25cfww33kfUSzBb89bMha7j1PnFQTy7H3FsQHN7W
 
 ---
 
