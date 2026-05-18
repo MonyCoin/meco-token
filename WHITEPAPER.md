@@ -68,7 +68,7 @@ MECO ليس مشروع مضاربة قصيرة الأجل، بل بنية مال
 - **الشبكة:** Solana  
 - **المعيار:** SPL Token  
 - **عنوان العقد (Mint):**  
-  `7hBNyFfwYTv65z3ZudMAyKBw3BLMKxyKXsr5xM51Za4i`  
+  `A5Ln25cfww33kfUSzBb89bMha7j1PnFQTy7H3FsQHN7W`  
 - **إجمالي المعروض:** 1,000,000,000 MECO  
 - **الضرائب:** 0%  
 - **الحرق:** غير مفعّل حاليًا  
