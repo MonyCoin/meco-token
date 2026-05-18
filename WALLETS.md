@@ -120,7 +120,7 @@
 - جميع التحركات قابلة للتتبع على السلسلة
 
 **العنوان:**
-`A5Ln25cfww33kfUSzBb89bMha7j1PnFQTy7H3FsQHN7W`
+`BkaJsFAJKPQZgreBFLrY2pPUi44fTJzXhmeBc8LeuF5W`
 
 ---
 
@@ -138,4 +138,4 @@
 ## 🪙 Token Information
 
 **Token Mint Address:**  
-`7hBNyFfwYTv65z3ZudMAyKBw3BLMKxyKXsr5xM51Za4i`
+`A5Ln25cfww33kfUSzBb89bMha7j1PnFQTy7H3FsQHN7W`
