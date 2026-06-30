@@ -1,16 +1,9 @@
-# <img src="https://raw.githubusercontent.com/MonyCoin/meco_wallet/refs/heads/main/assets/icon.png" width="30" height="30"> MECO (MonyCoin) — الشفافية الكاملة على شبكة Solana
+# <img src="https://raw.githubusercontent.com/MonyCoin/meco_wallet/refs/heads/main/assets/icon.png" width="30" height="30"> مؤسسة MonyCoin – MECO للتطوير التقني  
+## منظومة مالية محدودة للتشغيل الرقمي على الشبكات
 
-<div align="center">
+هذا هو المرجع الإداري الرسمي لمؤسسة MonyCoin الرقمية، الخاص بالرمز **MECO TOKEN** وكذلك الإدارة الرسمية لتطبيق محفظة العملات الرقمية **MECO Wallet**، أحد فرعي المشروع الأساسيين.
 
-[![Network](https://img.shields.io/badge/Network-Solana-9945FF.svg)](https://solana.com)
-[![Token Standard](https://img.shields.io/badge/Standard-SPL-blue.svg)](https://spl.solana.com)
-[![License](https://img.shields.io/badge/License-0BSD-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Operational-success.svg)](https://monycoin.github.io/meco_wallet-app/)
-
-</div>
-
-**مستودع `meco-token` هو المرجع الإداري المفتوح والرسمي لمشروع MonyCoin (MECO).**
-الغرض منه هو توفير شفافية مطلقة حول اقتصاد العملة (Tokenomics)، توزيع المحافظ، حوكمة الرسوم، ورؤية المشروع طويلة المدى.
+الكود المصدري لتطبيق MECO Wallet موجود في مستودع منفصل تتم إدارته من هذا المستودع.
 
 > ⚠️ **هذا المستودع مخصص للتوثيق المؤسسي والشفافية. الكود المصدري لتطبيق MECO Wallet موجود في مستودع منفصل: [meco_wallet](https://github.com/MonyCoin/meco_wallet).**
 
