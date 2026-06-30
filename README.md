@@ -5,7 +5,7 @@
 
 الكود المصدري لتطبيق MECO Wallet موجود في مستودع منفصل تتم إدارته من هذا المستودع.
 
-
+> ⚠️ **هذا المستودع مخصص للتوثيق المؤسسي والشفافية. الكود المصدري لتطبيق MECO Wallet موجود في مستودع منفصل: [meco_wallet](https://github.com/MonyCoin/meco_wallet).**
 
 ---
 
@@ -58,7 +58,7 @@
 
 ## 📬 المجتمع والتواصل
 
-- **الموقع الرسمي:** [MonyCoin](https://monycoin73.blogspot.com/)
+- **الموقع الرسمي:** [MonyCoin](https://monycoin.github.io/meco_web/)
 - **تويتر (X):** [@MoniCoinMECO](https://x.com/MoniCoinMECO)
 - **تيليجرام:** [@monycoin1](https://t.me/monycoin1)
 
