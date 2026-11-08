@@ -20,8 +20,8 @@ https://solscan.io/token/A5Ln25cfww33kfUSzBb89bMha7j1PnFQTy7H3FsQHN7W
 - **MECO Token (GitHub Pages):**  
 https://monycoin.github.io/meco-token/  
 
-- **MECO Wallet (الكود المصدرى):**  
-https://monycoin.github.io/meco_wallet/  
+- **MECO Wallet (الكود المصدري):**  
+https://github.com/MonyCoin/meco_wallet  
 - **MECO Wallet app(شاشة تحميل التطبيق)**
 https://monycoin.github.io/meco_wallet-app/
 ---
@@ -49,7 +49,7 @@ https://x.com/MoniCoinMECO
 https://t.me/monycoin1  
 
 - **Facebook:**  
-https://www.facebook.com/MonyCoim  
+https://www.facebook.com/share/1ZUbCbssCU/  
 
 ---
 
